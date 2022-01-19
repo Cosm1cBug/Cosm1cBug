@@ -6,3 +6,5 @@
 - 🔭 I’m currently working at [![Generic badge](https://img.shields.io/badge/Terralogic.Inc-<COLOR>.svg)](https://www.terralogic.com)
 - 🌱 I’m currently learning Python & JS
 
+
+![snake gif](https://raw.githubusercontent.com/Cosmic-Bug/Buggy/main/Gif/grid-snake.svg)
