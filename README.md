@@ -1,4 +1,4 @@
-### Hello<img src="https://github.com/svr666/svr666/blob/master/gifs/Hi.gif" width="30px">This is Buggy<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+### Hello<img src="https://github.com/svr666/svr666/blob/master/gifs/Hi.gif" width="30px">I'm Arun aka Buggy<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 
 - 🔭 I’m currently working at [![Generic badge](https://img.shields.io/badge/Terralogic.Inc-<COLOR>.svg)](https://www.terralogic.com)
