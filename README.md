@@ -15,7 +15,7 @@ About BUGGY BOT
 
 🌱 I’m currently learning Python & JS
 
-![Visitor Count](https : //profile-counter.glitch.me/Cosmic-Bug/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Cosmic-Bug/count.svg)
 
 ![snake gif](https://raw.githubusercontent.com/Cosmic-Bug/Buggy/main/Gif/grid-snake.svg)
 
