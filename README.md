@@ -3,12 +3,13 @@ Hello <img src="https://github.com/svr666/svr666/blob/master/gifs/Hi.gif" width=
 I'm Arun aka Buggy<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 About BUGGY BOT
-  > Works on headless whatsapp account. (Ofcourse account is not managed)
-  > No use data is stored in any of our servers.
-  > Clears all the chat history on a daily basis. (from the server)
-  > Plugins which are not working will remain like that coz i'm not planning to give any update any time soon.
-  > All the communication with the bot is properly encrypted.
-  > For any more details contact me personally.
+
+> Works on headless whatsapp account. (Ofcourse account is not managed)
+> No user data is stored in any of our servers.
+> Clears all the chat history on a daily basis. (from the server)
+> Plugins which are not working will remain like that coz i'm not planning to give any update any time soon.
+> All the communication with the bot is properly encrypted.
+> For any more details contact me personally.
 
 
 🔭 I’m currently working at [![Generic badge](https://img.shields.io/badge/Terralogic.Inc-<COLOR>.svg)](https://www.terralogic.com)
