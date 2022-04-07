@@ -5,7 +5,7 @@ About BUGGY BOT
 
 > Works on headless whatsapp account. (Ofcourse account is not managed)
 > No user data is stored in any of our servers.
-> Clears all the chat history on a daily basis. (from the server)
+> Clears all the chat history automatically on a daily basis. (from our servers)
 > Plugins which are not working will remain like that coz i'm not planning to give any update any time soon.
 > All the communication with the bot is properly encrypted.
 > For any more details contact me personally.
