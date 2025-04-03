@@ -1,16 +1,5 @@
 Hello <img src="https://github.com/svr666/svr666/blob/master/gifs/Hi.gif" width="30px">
 
-
-About BUGGY BOT
-
-> Works on headless whatsapp account. (Ofcourse account is not managed)
-> No user data is stored in any of our servers.
-> Clears all the chat history automatically on a daily basis. (from our servers)
-> Plugins which are not working will remain like that coz i'm not planning to give any update any time soon.
-> All the communication with the bot is properly encrypted.
-> For any more details contact me personally.
-
-
 🔭 I’m currently working at [![Generic badge](https://img.shields.io/badge/Terralogic.Inc-<COLOR>.svg)](https://www.terralogic.com)
 
 🌱 I’m currently learning Python & JS
