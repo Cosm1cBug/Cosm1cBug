@@ -10,7 +10,7 @@ Hello visitor <img src="https://github.com/svr666/svr666/blob/master/gifs/Hi.gif
 
 ### 📫 How to reach me
 <a href="https://telegram.dog/CosmicBug"><img src="https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="https://www.instagram.com/cosmic.bug__"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/cosmic.bug_"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:arunappoos07.com"><img alt="Gmail Badge" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:arunappoos07@gmail.com"/></a>
 <a href="https://wa.me/919746824845" title="Whatsapp"><img src="https://img.shields.io/badge/whatsapp-%23g4405F.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
