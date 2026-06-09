@@ -109,6 +109,23 @@ RedNode-Security is focused on building open-source solutions for:
 
 ![Snake](https://raw.githubusercontent.com/Cosm1cBug/Cosm1cBug/output/snake.svg)
 
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Cosm1cBug/Cosm1cBug/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Cosm1cBug/Cosm1cBug/output/github-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/Cosm1cBug/Cosm1cBug/output/github-snake.svg"
+    />
+  </picture>
+</p>
+
 ---
 
 ## 📚 Currently Learning
