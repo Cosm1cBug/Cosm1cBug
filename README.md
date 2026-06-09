@@ -29,17 +29,17 @@ Docker • Linux • GitHub Actions
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cosm1cBug&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cosm1cBug&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+![GitHub Streak](https://streak-stats.demolab.com?user=Cosm1cBug)
 
 ---
 
 ## 🏆 Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Cosm1cBug)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -53,7 +53,7 @@ Docker • Linux • GitHub Actions
 
 ## 🐍 Contribution Snake
 
-![Snake](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg)
+![Snake](https://raw.githubusercontent.com/Cosm1cBug/Cosm1cBug/output/snake.svg)
 
 ---
 
