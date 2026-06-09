@@ -42,8 +42,7 @@ GitHub Actions
 
 ## 📊 GitHub Stats
 
-![GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=Cosm1cBug&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cosm1cBug&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cosm1cBug&layout=compact)
 
