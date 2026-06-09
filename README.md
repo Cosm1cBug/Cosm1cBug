@@ -42,7 +42,7 @@ GitHub Actions
 
 ## 📊 GitHub Stats
 
-(Add cards here)
+![GitHubStats](https://github-readme-stats.vercel.app/api?username=Cosm1cBug&show_icons=true)
 
 ## 🔥 Current Focus
 
